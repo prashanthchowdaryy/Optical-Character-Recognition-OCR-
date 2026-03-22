@@ -75,12 +75,3 @@ Run all cells to:
 * Text extraction from images
 * Automation tasks
 * Data entry reduction
-
----
-
-## Future Improvements
-
-* Improve accuracy with preprocessing
-* Add GUI interface
-* Support multiple languages
-* Batch image processing
